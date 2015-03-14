@@ -2,8 +2,8 @@ baseurl:
 permalink: pretty
 markdown: kramdown
 paginate: 5
-repo: maptimeboston.github.io
+repo: maptimecapecod.github.io
 maptime:
-  chapter: Maptime Boston
-  twitter: maptimeBoston
+  chapter: Maptime Cape Cod
+  twitter: MaptimeCapeCod
   #disqus: YOUR DISQUS USERNAME
