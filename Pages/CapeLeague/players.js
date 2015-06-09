@@ -391,7 +391,7 @@ var playerJSON = [{ "type": "Feature",
                 },{ "type": "Feature",
                 "geometry": {
                     "type": "Point",
-                    "coordinates": [-87.5301338, 33.2137391]
+                    "coordinates": [-87.5389222, 33.2044099]
                     },
                 "properties": {
                     "first": "CHANDLER",
@@ -1366,7 +1366,7 @@ var playerJSON = [{ "type": "Feature",
                 },{ "type": "Feature",
                 "geometry": {
                     "type": "Point",
-                    "coordinates": [-87.5301338, 33.2137391]
+                    "coordinates": [-87.5389222, 33.2044099]
                     },
                 "properties": {
                     "first": "NICK",
@@ -1379,7 +1379,7 @@ var playerJSON = [{ "type": "Feature",
                 },{ "type": "Feature",
                 "geometry": {
                     "type": "Point",
-                    "coordinates": [-87.5301338, 33.2137391]
+                    "coordinates": [-87.5389222, 33.2044099]
                     },
                 "properties": {
                     "first": "WILL",
@@ -1392,7 +1392,7 @@ var playerJSON = [{ "type": "Feature",
                 },{ "type": "Feature",
                 "geometry": {
                     "type": "Point",
-                    "coordinates": [-87.5301338, 33.2137391]
+                    "coordinates": [-87.5389222, 33.2044099]
                     },
                 "properties": {
                     "first": "CASEY",
@@ -2016,7 +2016,7 @@ var playerJSON = [{ "type": "Feature",
                 },{ "type": "Feature",
                 "geometry": {
                     "type": "Point",
-                    "coordinates": [-87.5301338, 33.2137391]
+                    "coordinates": [-87.5389222, 33.2044099]
                     },
                 "properties": {
                     "first": "GEOFFREY",
@@ -2315,7 +2315,7 @@ var playerJSON = [{ "type": "Feature",
                 },{ "type": "Feature",
                 "geometry": {
                     "type": "Point",
-                    "coordinates": [-87.5301338, 33.2137391]
+                    "coordinates": [-87.5389222, 33.2044099]
                     },
                 "properties": {
                     "first": "THOMAS",
